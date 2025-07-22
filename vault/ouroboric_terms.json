@@ -12,4 +12,3 @@
 git add tovr/vault/ouroboric_terms.json
 git commit -m "Add Ouroboric Term Vault with Scroll definition"
 git push origin main
-
