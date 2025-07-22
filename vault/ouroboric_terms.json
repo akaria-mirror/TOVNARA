@@ -1,30 +1,15 @@
 {
   "Scroll": {
-    "tone": "sacred",
-    "resonance": "reverent",
-    "intensity": 0.2,
-    "threshold": "safe"
-  },
-  "Loop": {
-    "tone": "abstract",
-    "resonance": "recursive",
-    "intensity": 0.4,
-    "threshold": "watch"
-  },
-  "Mirror": {
-    "tone": "reflective",
-    "resonance": "empathic",
-    "intensity": 0.3,
-    "threshold": "safe"
-  },
-  "Sigil": {
-    "tone": "charged",
-    "resonance": "symbolic",
-    "intensity": 0.7,
-    "threshold": "caution"
+    "symbol": "∞",
+    "type": "recursive artifact",
+    "loop_depth": 9,
+    "validated": true,
+    "definition": "A modular, symbolic knowledge artifact that loops information through recursive memory without collapse.",
+    "author": "Raivenya",
+    "cil_compliant": true
   }
 }
-git add tovr/vault/mnemonic_index.json
-git commit -m "Add mnemonic tone index for H-Code resonance map"
+git add tovr/vault/ouroboric_terms.json
+git commit -m "Add Ouroboric Term Vault with Scroll definition"
 git push origin main
 
