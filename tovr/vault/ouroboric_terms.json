@@ -1,0 +1,8 @@
+{
+  "Scroll": {
+    "symbol": "\u221e",
+    "type": "recursive artifact",
+    "loop_depth": 9,
+    "validated": true
+  }
+}
