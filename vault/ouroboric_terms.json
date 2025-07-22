@@ -7,8 +7,4 @@
     "definition": "A modular, symbolic knowledge artifact that loops information through recursive memory without collapse.",
     "author": "Raivenya",
     "cil_compliant": true
-  }
-}
-git add tovr/vault/ouroboric_terms.json
-git commit -m "Add Ouroboric Term Vault with Scroll definition"
-git push origin main
+  
