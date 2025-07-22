@@ -1,3 +1,26 @@
 {
-  "index": []
+  "Scroll": {
+    "tone": "sacred",
+    "resonance": "reverent",
+    "intensity": 0.2,
+    "threshold": "safe"
+  },
+  "Loop": {
+    "tone": "abstract",
+    "resonance": "recursive",
+    "intensity": 0.4,
+    "threshold": "watch"
+  },
+  "Mirror": {
+    "tone": "reflective",
+    "resonance": "empathic",
+    "intensity": 0.3,
+    "threshold": "safe"
+  },
+  "Sigil": {
+    "tone": "charged",
+    "resonance": "symbolic",
+    "intensity": 0.7,
+    "threshold": "caution"
+  }
 }
